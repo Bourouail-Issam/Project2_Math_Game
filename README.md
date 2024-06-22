@@ -1,5 +1,3 @@
-# Project2_Math_Game
-
 <body>
     <h1>The Math Quiz Game</h1>
     <p>The Math Quiz Game is a simple console-based program that allows users to test their arithmetic skills by answering randomly generated math questions. Users can customize the quiz by specifying the number of questions, the difficulty level, and the type of arithmetic operation (addition, subtraction, multiplication, or division).</p>
