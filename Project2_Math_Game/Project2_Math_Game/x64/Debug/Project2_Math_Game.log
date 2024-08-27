@@ -1,0 +1,5 @@
+﻿  Project2_Math_Game.cpp
+C:\Users\gosho\OneDrive\Programming Advices\05 - Algorithms & Problem-Solving Level 2\TP\Project2_Math_Game\Project2_Math_Game\Project2_Math_Game.cpp(102,1): warning C4715: 'GenerateQuestion': not all control paths return a value
+C:\Users\gosho\OneDrive\Programming Advices\05 - Algorithms & Problem-Solving Level 2\TP\Project2_Math_Game\Project2_Math_Game\Project2_Math_Game.cpp(170,1): warning C4715: 'TypeOperationToString': not all control paths return a value
+C:\Users\gosho\OneDrive\Programming Advices\05 - Algorithms & Problem-Solving Level 2\TP\Project2_Math_Game\Project2_Math_Game\Project2_Math_Game.cpp(71,1): warning C4715: 'CalcRightAnwser': not all control paths return a value
+  Project2_Math_Game.vcxproj -> C:\Users\gosho\OneDrive\Programming Advices\05 - Algorithms & Problem-Solving Level 2\TP\Project2_Math_Game\x64\Debug\Project2_Math_Game.exe
